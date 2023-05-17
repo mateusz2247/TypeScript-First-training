@@ -1,12 +1,20 @@
 {
-	"name": "typescript",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"compile": "tsc --watch"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC"
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusz2247/TypeScript-First-training.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mateusz2247/TypeScript-First-training/issues"
+  },
+  "homepage": "https://github.com/mateusz2247/TypeScript-First-training#readme",
+  "description": ""
 }
